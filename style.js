@@ -1,1 +1,0 @@
-document.write("yeah thsi writes something");
