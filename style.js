@@ -1,1 +1,1 @@
-alert("well well");
+document.write("yeah thsi writes something");
